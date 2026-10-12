@@ -1,5 +1,5 @@
 # AD-SIEM-LAB
-A Siem Lab that was used as a touchup.
+A Siem Lab that was configured from my other project: https://github.com/Ereium/Active-Directory-Homelab
 
 Active Directory & Splunk Telemetry Lab
 A home lab I set up to practice Active Directory security monitoring, log forwarding, and threat detection using Splunk.
